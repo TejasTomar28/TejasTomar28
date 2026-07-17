@@ -21,44 +21,16 @@ Currently preparing for Software Engineering roles while continuously improving 
 
 ## 🛠 Tech Stack
 
-### Languages
+## 🛠 Tech Stack
 
-- Java
-- JavaScript
-- HTML
-- CSS
-
-### Backend
-
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- REST APIs
-- JWT Authentication
-
-### Database & Caching
-
-- MongoDB Atlas
-- Redis
-
-### Messaging
-
-- Apache Kafka
-
-### AI
-
-- OpenAI API
-
-### Tools
-
-- Git
-- GitHub
-- Maven
-- Swagger / OpenAPI
-- Postman
-- Docker (Learning)
-
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🚀 Featured Projects
 
