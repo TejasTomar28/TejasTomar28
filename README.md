@@ -74,19 +74,20 @@ Built around a production-style backend architecture with secure authentication,
 
 ---
 
-### 🐦‍⬛ Raven AI — RAG Pipeline
+### 🐦‍⬛ Raven AI — Enterprise Intelligence Platform
 
-An AI-powered Retrieval-Augmented Generation (RAG) system designed to retrieve relevant information from documents and use that context to generate grounded responses.
+An AI-powered enterprise intelligence platform designed to transform organizational documents and knowledge into searchable, contextual intelligence.
 
-The project explores the complete RAG workflow — from document ingestion and processing to retrieval, context construction, and LLM-based answer generation.
+Raven uses Retrieval-Augmented Generation (RAG) to retrieve relevant information from enterprise data and generate grounded, context-aware responses.
 
 **Highlights:**
 - Document ingestion and processing pipeline
-- Semantic retrieval of relevant document context
-- Context-aware LLM response generation
-- RAG-based question answering
+- Semantic search and intelligent information retrieval
+- Context-aware question answering
+- Retrieval-Augmented Generation (RAG) pipeline
+- LLM-powered response generation
 - API-driven architecture using FastAPI
-- Separation of ingestion, retrieval, and generation workflows
+- Modular ingestion, retrieval, and generation workflows
 
 **Tech:** Python • FastAPI • RAG • Vector Search • LLM APIs
 
@@ -110,10 +111,9 @@ A weather application that retrieves and displays real-time weather information 
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms
-- DBMS & SQL
-- Computer Science Fundamentals
-- AI & Retrieval-Augmented Generation
+-  AI/ML concepts and their application in software systems
+-  Frontend development and modern web technologies
+-  Deepening my understanding of scalable software systems
 
 ---
 
